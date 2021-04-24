@@ -26,7 +26,7 @@
  *
  * @details
  * Test the correctness of key generation and shared secret according to the 
- * test vectors of RFC 7748 and random secret keys.
+ * test vectors of RFC 7748 and random private keys.
  */
 void test_ecdh()
 {
